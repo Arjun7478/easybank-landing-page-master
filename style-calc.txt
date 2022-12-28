@@ -1,0 +1,3 @@
+width: 1275px, -70px actual: 1206px
+
+hight: 1037,-77px actual: 960px
